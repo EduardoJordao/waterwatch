@@ -5,4 +5,6 @@ How to use:
 
 - Use provided MySQL scripts to generate a usable server, in number order.
 
-- Change config.properties to resemble you server location, user and password. 
+- Change config.properties to resemble you server location, user and password.
+
+- The MySQL connector provided must be in the project's CLASSPATH.
